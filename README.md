@@ -2,7 +2,15 @@
 
 Design patterns and architecture patterns compared across Python, TypeScript, Kotlin, and Java.
 
-Last verified: 2026-06-20
+Last verified: 2026-06-21
+
+## Development Environment
+
+If Python, Node.js, Java, or Kotlin are missing locally, enter the Nix shell:
+
+```bash
+nix develop
+```
 
 ## Runnable Starter Project
 
@@ -14,6 +22,28 @@ python3 projects/strategy-discount/python/test_strategy.py
 node projects/strategy-discount/javascript/strategy.mjs
 node projects/strategy-discount/javascript/strategy.test.mjs
 ```
+
+## Target Hands-On Projects
+
+Strategy pattern:
+
+```bash
+python3 projects/strategy-discount/python/strategy.py
+python3 projects/strategy-discount/python/test_strategy.py
+node projects/strategy-discount/javascript/strategy.mjs
+node projects/strategy-discount/javascript/strategy.test.mjs
+```
+
+Observer / event subscription:
+
+```bash
+python3 projects/observer-events/python/events.py
+python3 projects/observer-events/python/test_events.py
+node projects/observer-events/javascript/events.mjs
+node projects/observer-events/javascript/events.test.mjs
+```
+
+This is the first pattern slice. Add more languages or patterns only when they include runnable code and tests.
 
 ## Source Repositories
 
