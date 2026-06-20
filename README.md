@@ -68,7 +68,7 @@ Each pattern directory should include:
 ## What Belongs Elsewhere
 
 - full backend DDD applications belong in `learning-backend-ddd`
-- language setup notes belong in `learning-language-sandboxes`
+- language setup notes belong in `learning-build-systems`
 - build tooling comparisons belong in `learning-build-systems`
 
 ## Repository Profile
