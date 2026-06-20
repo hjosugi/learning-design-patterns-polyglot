@@ -4,6 +4,15 @@ Design patterns and architecture patterns compared across Python, TypeScript, Ko
 
 Last verified: 2026-06-20
 
+## Runnable Starter Project
+
+Start with one Strategy pattern exercise in two languages:
+
+```bash
+python3 projects/strategy-discount/python/strategy.py
+node projects/strategy-discount/javascript/strategy.mjs
+```
+
 ## Source Repositories
 
 - `python-design-pattern`
