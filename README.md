@@ -10,7 +10,9 @@ Start with one Strategy pattern exercise in two languages:
 
 ```bash
 python3 projects/strategy-discount/python/strategy.py
+python3 projects/strategy-discount/python/test_strategy.py
 node projects/strategy-discount/javascript/strategy.mjs
+node projects/strategy-discount/javascript/strategy.test.mjs
 ```
 
 ## Source Repositories
